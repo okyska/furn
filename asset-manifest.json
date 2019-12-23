@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/furn/static/css/main.3c3018bb.chunk.css",
-    "main.js": "/furn/static/js/main.0cc96f08.chunk.js",
-    "main.js.map": "/furn/static/js/main.0cc96f08.chunk.js.map",
+    "main.js": "/furn/static/js/main.39e820f4.chunk.js",
+    "main.js.map": "/furn/static/js/main.39e820f4.chunk.js.map",
     "runtime-main.js": "/furn/static/js/runtime-main.4c45bd94.js",
     "runtime-main.js.map": "/furn/static/js/runtime-main.4c45bd94.js.map",
     "static/js/2.26fda01a.chunk.js": "/furn/static/js/2.26fda01a.chunk.js",
     "static/js/2.26fda01a.chunk.js.map": "/furn/static/js/2.26fda01a.chunk.js.map",
     "index.html": "/furn/index.html",
-    "precache-manifest.0dbb4c87189ca0beae5a6bb371490a64.js": "/furn/precache-manifest.0dbb4c87189ca0beae5a6bb371490a64.js",
+    "precache-manifest.48b64c934e3408d915b2dff9282fb8df.js": "/furn/precache-manifest.48b64c934e3408d915b2dff9282fb8df.js",
     "service-worker.js": "/furn/service-worker.js",
     "static/css/main.3c3018bb.chunk.css.map": "/furn/static/css/main.3c3018bb.chunk.css.map",
     "static/js/2.26fda01a.chunk.js.LICENSE": "/furn/static/js/2.26fda01a.chunk.js.LICENSE",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.4c45bd94.js",
     "static/js/2.26fda01a.chunk.js",
     "static/css/main.3c3018bb.chunk.css",
-    "static/js/main.0cc96f08.chunk.js"
+    "static/js/main.39e820f4.chunk.js"
   ]
 }
